@@ -72,6 +72,7 @@ The dataset contains Walmart transactional sales data with the following key fie
 ---
 
 ## 📂 Project Structure
+```
 Walmart-Sales-Analysis/
 │
 ├── walmart.ipynb
@@ -81,6 +82,7 @@ Walmart-Sales-Analysis/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+```
 
 ---
 
