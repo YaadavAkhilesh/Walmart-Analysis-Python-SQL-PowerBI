@@ -1,38 +1,61 @@
-# Walmart Sales Analysis using Python & SQL
+# Walmart Sales Analysis using Python, SQL & Power BI
 
 ---
 
 ## 📌 Project Overview
 
-This project focuses on analyzing Walmart sales data using Python & SQL to extract meaningful business insights.
-The analysis answers real-world business questions related to revenue, customer behavior, ratings, and sales trends across branches, cities, and time periods.
+This project focuses on analyzing Walmart sales data using **Python, SQL** and presenting insights through an **interactive Power BI dashboard**.
 
-The goal is to demonstrate strong SQL querying skills, including aggregations, window functions, CTEs, and date-time analysis.
+The analysis answers real-world business questions related to revenue, customer behavior, ratings, payment methods, and sales patterns across branches, cities, and time periods.
+
+The goal of this project is to demonstrate:
+- **Data Cleaning & Manipulation** using Python 
+- Strong **SQL querying skills**
+- Ability to translate data into **business insights**
+- Clean and professional **dashboard design using Power BI**
 
 ---
 
 ## 🗂️ Dataset Description
 
 The dataset contains Walmart transactional sales data with the following key fields:
-- Branch
-- City
-- Category
-- Payment Method
-- Quantity
-- Rating
-- Date
-- Time
-- Unit Price
-- Profit Margin
-- Total Amount
+
+- Branch  
+- City  
+- Category  
+- Payment Method  
+- Quantity  
+- Rating  
+- Date  
+- Time  
+- Unit Price  
+- Profit Margin  
+- Total Amount  
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-- MySQL
-- SQL (CTEs, Window Functions, Aggregate Functions)
-- Date & Time Functions
+- **Pandas**
+- **MySQL**
+- **SQL** (CTEs, Window Functions, Aggregate Functions)
+- **Date & Time Functions**
+- **Power BI** (Dashboard Creation & Data Visualization)
+
+---
+
+## 📊 Power BI Dashboard Highlights
+
+The interactive dashboard provides insights such as:
+
+- **Total Revenue, Transactions, and Items Sold**
+- **Revenue distribution by product category**
+- **Payment method share**
+- **Sales by shift (Morning, Afternoon, Evening)**
+- **Top-rated product categories by branch**
+- **Branch, City, and Category level filtering**
+
+The dashboard is designed using a **clean light theme**, focused on clarity, readability, and business usability.
 
 ---
 
@@ -72,20 +95,19 @@ The dataset contains Walmart transactional sales data with the following key fie
 ---
 
 ## 📂 Project Structure
+
 ```
 Walmart-Sales-Analysis/
 ├── walmart.ipynb
+├── walmart.sql
+├── walmart.pbix
 ├── walmart.csv
 ├── walmart_cleaned_data.csv
-├── walmart.sql
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 ```
 
----
-
----
 ## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
