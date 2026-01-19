@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/dashboard.png" alt="Walmart Sales Power BI Dashboard" width="900">
+</p>
+
+<p align="center"><b>Interactive Power BI Dashboard showcasing Walmart Sales Insights</b></p>
+
 # Walmart Sales Analysis using Python, SQL & Power BI
 
 ---
