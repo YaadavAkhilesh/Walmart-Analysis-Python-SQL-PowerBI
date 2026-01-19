@@ -65,7 +65,7 @@ The dataset contains Walmart transactional sales data with the following key fie
 
 ---
 
-## 🔍 Key Business Problems Solved
+## 🔍 Business Problems Solved
 
 1. Payment Method Analysis
     - Identified different payment methods.
@@ -109,10 +109,46 @@ Walmart-Sales-Analysis/
 ├── walmart.pbix
 ├── walmart.csv
 ├── walmart_cleaned_data.csv
+├── Business_Insights_and_Recommendations.docx
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 ```
+
+## 📊 Business Insights
+
+- Sales performance is not uniform across all branches. Some branches consistently generate higher revenue, indicating differences in local demand, customer traffic, or operational efficiency.
+
+- A limited number of product categories contribute the majority of total sales. Other categories have relatively low impact on overall revenue.
+
+- Sales activity is higher during afternoon and evening hours, while mornings show comparatively lower transaction volumes.
+
+- Digital payment methods such as cards and online payments are widely used across branches, showing stable and consistent transaction behavior.
+
+- Customer ratings vary noticeably across product categories. Some categories receive strong ratings, while others indicate lower customer satisfaction.
+
+- Profit margins differ across categories and branches even when sales volumes appear similar, highlighting the importance of cost and pricing strategies.
+
+- Sales trends fluctuate across months and years, showing clear seasonal patterns rather than steady performance throughout the year.
+
+---
+
+## 💡 Business Recommendations
+
+- Analyze underperforming branches separately instead of applying uniform performance targets across all locations.
+
+- Focus inventory planning and promotional efforts on top-performing product categories that drive the majority of revenue.
+
+- Align staff allocation with peak business hours by increasing workforce availability during afternoon and evening periods.
+
+- Encourage the use of digital payment methods to improve checkout efficiency and reduce cash-handling overhead.
+
+- Investigate and improve customer experience in low-rated product categories through quality checks and customer feedback analysis.
+
+- Use profit margin analysis, not just sales volume, when making business decisions to ensure long-term profitability.
+
+- Plan inventory levels and promotional campaigns based on seasonal sales patterns to avoid overstocking or missed demand.
+
 
 ## 🔗 Connect With Me
 
